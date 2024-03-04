@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+   
+    <main  > 
+         <header><h1>О курсе</h1> </header>   
+        <section class="sec1">
+            
+           <div>
+           <p>  Порой фильмы устроены сложнее четырёхтомных романов. Но читать книги учат со школы, а смотреть кино — нет. При этом без подготовки бывает трудно получить от просмотра удовольствие. <br>
+            На курсе из 8 занятий научимся быть осознанными зрителями. Познакомимся с этапами кинопроизводства и узнаем, как смотреть кино глазами сценариста, режиссёра и монтажёра. Разберёмся в особенностях жанров и рассмотрим важнейшие картины, от «Гражданина Кейна» до «Матрицы».</p>
+          </div>  
+            <img  class="photo1" src="_1 1.png" alt="">
+        </section>
+        <section class="sec2">
+            <img  class="photo2" src="photo 1.png" alt="">
+            <ul><li>
+                <h2>8 занятий </h2>
+                <p class="par1">Для погружения <br> в кинематограф</p>
+            </li></ul> 
+             <ul><li>
+                <h2>2 часа</h2>
+                <p class="par1">Длительность  <br> каждого занятия</p>
+            </li></ul>
+            <ul> <li>
+                <h2>3 недели</h2>
+                <p class="par1"> Длительность  <br> 
+                    курса</p>
+            </li></ul>
+        
+        </section>
+    </main>
+    
+</body>
+</html>
